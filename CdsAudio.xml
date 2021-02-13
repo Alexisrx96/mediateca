@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cdsAudio>
+    <cdAudio>
+        <code>CDA00002</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>1</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>12</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00003</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00004</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00005</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00006</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00007</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00008</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00009</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00010</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <gender>Lucha</gender>
+        <length>18:43:19</length>
+        <artist>Juan</artist>
+        <songsCount>1</songsCount>
+    </cdAudio>
+    <cdAudio>
+        <code>CDA00011</code>
+        <tittle>Jhon</tittle>
+        <ableableUnits>0</ableableUnits>
+        <gender>Jos</gender>
+        <length>10:00:00</length>
+        <artist>Juan</artist>
+        <songsCount>12</songsCount>
+    </cdAudio>
+</cdsAudio>

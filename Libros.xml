@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<libros>
+    <libro>
+        <code>LIB00001</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00002</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00003</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00004</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00005</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00006</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00007</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00008</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00009</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00010</code>
+        <tittle>Dia de pago</tittle>
+        <ableableUnits>55</ableableUnits>
+        <publisher>asd</publisher>
+        <author>Juan</author>
+        <isbn>Lucha</isbn>
+        <publicationYear>22</publicationYear>
+        <pageCount>5</pageCount>
+    </libro>
+    <libro>
+        <code>LIB00011</code>
+        <tittle>Titulo1</tittle>
+        <ableableUnits>1</ableableUnits>
+        <publisher>San julian</publisher>
+        <author>Josue</author>
+        <isbn>0 123 12345 1</isbn>
+        <publicationYear>2021</publicationYear>
+        <pageCount>20</pageCount>
+    </libro>
+</libros>
